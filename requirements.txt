@@ -9,7 +9,7 @@ matplotlib>=3.3.4
 psutil>=5.8.0
 tensorboard>=2.4.1
 setuptools>=21.0.0
-coverage~=5.3.1
+coverage>=6.5,<7
 torchvision>=0.10.0
 sphinx~=4.0.2
 sphinx-rtd-theme
